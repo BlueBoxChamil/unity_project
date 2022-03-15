@@ -8,7 +8,8 @@ unity学习
 C#
 
 #### 使用说明
-001 使用说明在Assets路径下的README中
+001 使用说明在Assets\README.md中
+    演示视频在Assets\image\video.mp4
 
 
 #### 特技
